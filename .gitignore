@@ -1,0 +1,8 @@
+.env
+.env.*
+docs/
+*.csv
+*.json
+node_modules/
+.DS_Store
+.vercel
