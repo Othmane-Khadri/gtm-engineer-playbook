@@ -93,6 +93,12 @@ cp -r gtm-engineer-playbook/.claude/skills/gtm-playbook/icp-architect/ your-proj
 cp -r gtm-engineer-playbook/.claude/skills/gtm-playbook/signal-scanner/ your-project/.claude/skills/gtm-playbook/signal-scanner/
 ```
 
+## Uninstall
+
+```bash
+rm -rf .claude/skills/gtm-playbook/
+```
+
 ## Prerequisites
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installed and authenticated
