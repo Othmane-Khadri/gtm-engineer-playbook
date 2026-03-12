@@ -170,7 +170,6 @@ These skills pair well with existing GTM resources:
 
 | Resource | What It Adds |
 |----------|-------------|
-| [ColdIQ GTM Skills](https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills) | 137 sales triggers, 34 email templates |
 | [gtmagents](https://github.com/gtmagents/gtm-agents) | 92 agents across sales, marketing, CS, RevOps |
 | [claude-seo](https://github.com/AgriciDaniel/claude-seo) | SEO/GEO skills with DataForSEO integration |
 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Comprehensive MCP server directory |
