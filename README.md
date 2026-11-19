@@ -2,7 +2,7 @@
 
 **10 installable Claude Code skills that turn your terminal into a GTM command center.**
 
-Built by [Earleads](https://www.earleads.com) — GTM Engineering as a Service.
+Built by [Earleads](https://www.earleads.com). We get brands named in ChatGPT, Claude, Gemini and Perplexity answers, then engineer the GTM system that turns those AI visits into pipeline. These skills come from that second half.
 
 ---
 
@@ -185,4 +185,6 @@ These skills pair well with existing GTM resources:
 
 ---
 
-Built by [Earleads](https://www.earleads.com) — we build GTM systems for B2B companies. If you want us to build and run these systems for you, [let's talk](https://www.earleads.com).
+Built by [Earleads](https://www.earleads.com). Most AI SEO agencies stop at the mention. We keep going: we get B2B and B2C brands named in ChatGPT, Claude, Gemini and Perplexity answers, then build the GTM engineering downstream. The AI visit gets identified, lands in Slack, becomes a task in your CRM with context, and feeds the outreach. The skills in this repo come from that downstream work.
+
+Want to see which buyer questions your competitors win in AI answers today? [Get the free AI visibility audit](https://www.earleads.com/ai-visibility-audit/), or [book a call](https://app.iclosed.io/e/acquisition-and-consulting-llp/discovery-call-ai-visibility-gtm-engineering) to have us build and run this for you.
